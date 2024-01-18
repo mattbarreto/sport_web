@@ -4,7 +4,9 @@ Welcome to the repository of the Sports and Healthy Living Blog! This Django-pow
 
 ## Preview
 
-![Blog Functionality](https://link/to/gif/demo.gif)
+<p align="center">
+  <img src="https://github.com/mattbarreto/sport_web/blob/master/spor_web.gif?raw=true" alt="Blog Functionality" width="100%">
+</p>
 
 ## Technologies Used (Tecnologías Utilizadas)
 
